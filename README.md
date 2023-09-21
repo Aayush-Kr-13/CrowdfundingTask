@@ -1,4 +1,4 @@
-# CrowdfundingTask
+## CrowdfundingTask
 CrowdFunding Smart Contract
 Introduction
 The CrowdFunding smart contract is designed to facilitate crowdfunding campaigns on the Ethereum blockchain. It allows users to contribute Ether to a campaign and manage fund distribution through a voting mechanism for proposed requests.
