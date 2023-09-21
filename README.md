@@ -22,7 +22,7 @@ Deploy the Contract: Deploy the compiled contract on the Ethereum network of you
 
 Contribute Ether: Contributors can send Ether to the contract using the sendEth function. Contributions must meet the minimum contribution requirement.
 
-##Campaign Management:
+## Campaign Management:
 
 The contract manager can create spending requests using the createRequests function.
 Contributors can vote on spending requests with the voteRequest function.
